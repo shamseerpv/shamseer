@@ -1,0 +1,188 @@
+
+
+.header{
+    width: 100%;
+    height: 85px;
+    background-color: #3b5998;
+}
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+ 
+}
+.login{
+    width: 50%;
+       float: left;
+       padding-top: 11px;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 71px;
+}
+
+.login-label{
+    color: #fff;
+    font-size: 11px;
+   
+}
+.login-controls{
+    margin-left: 119px;
+}
+.forgotten{
+    color: #9cb4d8;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.sub-but{
+    background: #4267b2;
+    color: #fff;
+    height: 20px;
+      border-color: #29487d;
+      cursor: pointer;
+}
+.sub-but:hover{
+    background: red;
+}
+.left-sct{
+    width: 50%;
+    float: left;
+    height: 500px;
+    
+}
+.right-sct{
+    width: 50%;
+    float: left;
+  
+  height: 500px;
+}
+.para1{
+    font-size: 21px;
+    padding-left: 59px;
+    padding-top: 0px;
+    font-weight: bold;
+}
+.para2{
+    font-size: 41px;
+    font-weight: bold;
+    padding-left: 109px;
+}
+.name1{
+     margin-left: 122px;
+     border-radius: 2px;
+     background-color:white;
+border: 1px solid rgb(189, 199, 216);
+border-radius:5px;
+font-family:Helvetica, Arial, sans-serif;
+font-size:18px;
+font-weight:400;
+ }
+ .name2{
+    border-radius: 2px;
+    background-color:white;
+    border: 1px solid rgb(189, 199, 216);
+    border-radius:5px;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:18px;
+    font-weight:400;
+ }
+ .name3{
+    border-radius: 2px;
+    margin-left: 122px;
+    width: 417px;
+    margin-top: 4px;
+    background-color:white;
+border: 1px solid rgb(189, 199, 216);
+border-radius:5px;
+font-family:Helvetica, Arial, sans-serif;
+font-size:18px;
+font-weight:400;
+ }
+ .name4{
+    border-radius: 2px;
+    margin-left: 122px;
+    width: 417px;
+    margin-top: 4px;
+    background-color:white;
+border: 1px solid rgb(189, 199, 216);
+border-radius:5px;
+font-family:Helvetica, Arial, sans-serif;
+font-size:18px;
+font-weight:400;
+ }
+ .next{
+    padding-left: 123px;
+    color: #989878;
+}
+.berthday{
+    margin-left: 120px;
+    border-radius: 2px;
+    cursor: pointer;
+    background-color:rgb(221, 221, 221);
+	border:1px solid rgb(189, 199, 216);
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:13px;
+	font-weight:400;
+
+}
+.month{
+    border-radius: 2px;
+    cursor: pointer;
+    background-color:rgb(221, 221, 221);
+	border:1px solid rgb(189, 199, 216);
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:13px;
+	font-weight:400;
+}
+.year{
+    border-radius: 2px;
+    cursor: pointer;
+    background-color:rgb(221, 221, 221);
+	border:1px solid rgb(189, 199, 216);
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:13px;
+	font-weight:400;
+}
+.gen{
+        margin-left: 120px;
+        color: #989878;
+        
+}
+.male{
+    margin-left: 120px; 
+    cursor: pointer; 
+}
+.by-click{
+    margin-left: 120px;
+    font-size:10px;
+}
+.sign-up{
+    margin-left: 120px;
+    width: 135px;
+    background-color: rgb(65 146 30);
+    border:1px solid rgb(59, 110, 34);
+    font-size:18px;	
+    cursor: pointer;
+    border-radius: 3px;
+}
+.sign-up:hover{
+background: rgb(206, 203, 203);
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 550px;
+}      
+.fb-img{
+    margin-left: 60px;
+    margin-top: 26px;
+}
